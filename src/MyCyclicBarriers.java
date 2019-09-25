@@ -16,7 +16,7 @@ public class MyCyclicBarriers {
         for (int i = 0; i < 3; ++i) {
             executorService.execute(new Exam(i + 1; barrier));
 
-        } executorService.shutdown();))
+        } executorService.shutdown();
 
 
 
