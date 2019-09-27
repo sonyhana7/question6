@@ -17,6 +17,7 @@ public class MyCyclicBarriers {
             executorService.execute(new Exam(i + 1; barrier));
 
         } executorService.shutdown();
+        jjjj
 
 
 
